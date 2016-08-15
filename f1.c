@@ -2,5 +2,4 @@
 void main (void)
 {
 	printf("Hello world\n");
-	printf("test de modification");
 }
